@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @dfirlady
-- 👀 I’m interested in DFIR, Threat hunting, Malware analysis
-- 🌱 I’m currently learning pentesting
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in DFIR, Threat hunting, Malware analysis and all things cyber
 - 📫 reach me @dfirlady@gmail.com
 
 - ⚡ Fun fact: I love dancing, a great matcha and a good nap
